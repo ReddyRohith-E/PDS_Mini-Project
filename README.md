@@ -1,6 +1,6 @@
 # Breast Cancer Prediction: A Machine Learning Approach
 
-## Team Members
+**Team Members:**
 - 22691A05I2
 - 22691A05I4
 - 22691A05I5
